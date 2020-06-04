@@ -6,3 +6,4 @@
 1. Clone the git repository
 2. Open in editor of your choice and run the program
 3. make sure the txt file is present in same directory
+4. just follow console instruction
