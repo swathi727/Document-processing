@@ -14,6 +14,7 @@ def search(word):
             print("line number:",count,":",s)
         count+=1
 
+        
 def delete(lineno):
     print(lineno)
     f=open(fname,'r+')
